@@ -6,9 +6,9 @@
 
 - 🎓 I’m a Computer Science & Engineering Undergrad at **NIT Surat, Gujarat**
 
-- 🔭 I’m currently working on **making my first open source contributions**
+- 🔭 I’m currently working on **the ACM NIT Surat Website**
 
-- 🌱 I’m currently learning **NextJs and Astro frameworks**
+- 🌱 I’m currently learning **NextJs framework**
 
 - 👯 I’m looking to collaborate on **full stack web development projects**
 
@@ -30,11 +30,32 @@
 <a href="https://www.linkedin.com/in/vinayaka-iyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vinayakaiyer999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
+                                                                                         
+<!-- Featured Repositories -->
+# ⚡ Featured: 
+
+<p align="center">
+<a href="https://github.com/vinayaka-iyer/Easy-Manager_HackTheTank">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=Easy-Manager_HackTheTank&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/vinayaka-iyer/PawTopia_Dotslash6.0">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=PawTopia_Dotslash6.0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/vinayaka-iyer/AniQuiz_HackNITR4.0">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=AniQuiz_HackNITR4.0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/vinayaka-iyer/AniBlog">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=AniBlog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vinayaka-iyer&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinayaka-iyer&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaka-iyer&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
