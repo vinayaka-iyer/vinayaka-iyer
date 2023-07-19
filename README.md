@@ -36,25 +36,25 @@
 
 <p align="center">
 <a href="https://github.com/vinayaka-iyer/Easy-Manager_HackTheTank">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=Easy-Manager_HackTheTank&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-git-master-vinayaka-iyer.vercel.app/api/pin/?username=vinayaka-iyer&repo=Easy-Manager_HackTheTank&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/vinayaka-iyer/PawTopia_Dotslash6.0">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=PawTopia_Dotslash6.0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-git-master-vinayaka-iyer.vercel.app/api/pin/?username=vinayaka-iyer&repo=PawTopia_Dotslash6.0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/vinayaka-iyer/AniQuiz_HackNITR4.0">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=AniQuiz_HackNITR4.0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-git-master-vinayaka-iyer.vercel.app/api/pin/?username=vinayaka-iyer&repo=AniQuiz_HackNITR4.0&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/vinayaka-iyer/AniBlog">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=vinayaka-iyer&repo=AniBlog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats-git-master-vinayaka-iyer.vercel.app/api/pin/?username=vinayaka-iyer&repo=AniBlog&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayaka-iyer&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-git-master-vinayaka-iyer.vercel.app/api/top-langs/?username=vinayaka-iyer&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
