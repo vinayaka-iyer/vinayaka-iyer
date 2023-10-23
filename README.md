@@ -31,7 +31,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vinayakaiyer999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
                                                                                          
-<!-- Featured Repositories -->
+<!-- 
 # ⚡ Featured: 
 
 <p align="center">
@@ -56,5 +56,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-master-vinayaka-iyer.vercel.app/api/top-langs/?username=vinayaka-iyer&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+ -->
 
