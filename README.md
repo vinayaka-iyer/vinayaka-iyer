@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **cloud deployment and web hosting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vinayaka-iyer](https://github.com/vinayaka-iyer)
+- 👨‍💻 All of my projects are available at [https://vinayaka-i.netlify.app/](https://vinayaka-i.netlify.app/)
 
 - 💬 Ask me about **frontend web technologies**
 
