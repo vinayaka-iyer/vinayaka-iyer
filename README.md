@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vinayaka Iyer</h1>
 
-#💫 About Me:
+# 💫 About Me:
 ###  I’m a `Software Engineer` specializing in building <i>(and occasionally designing)</i> exceptional digital experiences.
 
 - 🎓 I studied Computer Science & Engineering at **NIT Surat, Gujarat** (Class of 2025)
