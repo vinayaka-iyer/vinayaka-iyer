@@ -5,13 +5,13 @@
 
 - 🎓 I studied Computer Science & Engineering at **NIT Surat, Gujarat** (Class of 2025)
 
-- 🔭 I’m currently working on contributing to Open source projects
+- 🔭 I’m currently building **Intelligent software solutions**
 
 - 🌱 I’m currently learning **Go**
 
-- 🤝 I’m looking for help with **Cloud native development and Microservice architecture**
+- 🤝 I’m looking for help with **Cloud native development and Microservices architecture**
 
-- 💬 Ask me about **Full-stack Web development**
+- 💬 Ask me about **Javascript/TS Frameworks**
 
 
 
